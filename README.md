@@ -1,1 +1,1 @@
-# tugas-prak-struktur-data
+# tugas-praktikum-struktur-data
